@@ -3,7 +3,15 @@
 
 **TW: DISCUSSION OF VIOLENCE (no graphic images), BAD WORDS (it's DEF CON, so that's par for the course)**
 
-[This is the deck](DC32-S533-Kava-v24-08-10-1224-Solving-LSK-Murder-strings-grep-Perl.pdf) that I used for the talk I gave on the Warstories Track at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-index.html) in Las Vegas.
+### [This is the deck](DC32-S533-Kava-v24-08-10-1224.pdf) that I used for the talk I gave on the Warstories Track at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-index.html) in Las Vegas.
+
+[![Slide deck GIF animation preview](preview.gif)](DC32-S533-Kava-v24-08-10-1224.pdf)
+
+<br>
+
+## If you want to do something nice to honour Cari Farver's memory, please consider donating to the Cari Farver Memorial Scholarship Fund. Visit: https://farverscholarship.org
+
+<br>
 
 On the stage, I used Eye of Gnome (eog(1)) to show slides stored as individual JPEG images copied to a tmpfs RAM disk.  The goal was speed and simplicity although it would have helped if I knew my screen wasn't mirroring for the first couple minutes! (Thankfully, a helpful hacker in the audience yelled-out, and we were able to quickly remedy it.)
 
@@ -20,8 +28,6 @@ There has also been coverage on shows like [Dataline NBC](https://www.nbcnews.co
 And, yes, there are Easter Eggs or subtle references in multiple slides.  I hope you find them.
 
 The recorded video should eventually be posted to the [DEF CON Media Server](https://media.defcon.org) and [YouTube](https://www.youtube.com/user/defconconference). An older version of my slide deck is already on the Media Server, but the copy found here is the one that was used (and it will probably also replace the older copy on the DEF CON site sometime after people are back home from the con). For DC31 it took about two months for videos to appear.
-
-# If you want to do something nice to honour Cari Farver's memory, please consider donating to the Cari Farver Memorial Scholarship Fund. Visit: https://farverscholarship.org
 
 I did a [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1bax5zv/i_am_the_nerd_from_netflixs_lover_stalker_killer/) months back that answered a lot of questions. If you haven't seen it, I highly recommend watching the wonderful [Netflix documentary, "Lover, Stalker, Killer"](https://www.netflix.com/title/81611991) before watching or reading this presentation.
 
