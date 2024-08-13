@@ -21,7 +21,7 @@ On the stage, I used Eye of Gnome (eog(1)) to show slides stored as individual J
 
 This PDF was made by gluing the JPEG slides together into one file. The deck is 133 slides, of which about 128 are talk content (I feel safer with powers of 2), and they were shown in 20 minutes or less for an average rate of >= 6.4 slides/min.
 
-This was cramming a lot of info in a short span and intended to feel like a lightning talk with an over-caffeinated tempo reminescent of [Clifford Stoll's TED Talk](https://www.ted.com/talks/clifford_stoll_the_call_to_learn).
+This was cramming a lot of info into a short timespan and intended to feel like a lightning talk with an over-caffeinated tempo reminescent of [Clifford Stoll's wonderful 2006 TED Talk](https://www.ted.com/talks/clifford_stoll_the_call_to_learn).
 
 And this only covers like 1% of the case!
 
@@ -33,11 +33,11 @@ And, yes, there are Easter Eggs or subtle references in multiple slides.  I hope
 
 The recorded video should eventually be posted to the [DEF CON Media Server](https://media.defcon.org) and [YouTube](https://www.youtube.com/user/defconconference). An older version of my slide deck is already on the Media Server, but the copy found here is the one that was used (and it will probably also replace the older copy on the DEF CON site sometime after people are back home from the con). For DC31 it took about two months for videos to appear.
 
-I did a [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1bax5zv/i_am_the_nerd_from_netflixs_lover_stalker_killer/) months back that answered a lot of questions. If you haven't seen it, I highly recommend watching the wonderful [Netflix documentary, "Lover, Stalker, Killer"](https://www.netflix.com/title/81611991) before watching or reading this presentation.
+I did a [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1bax5zv/i_am_the_nerd_from_netflixs_lover_stalker_killer/) months back that answered a lot of questions. If you haven't seen it, I highly recommend watching the wonderful [Netflix documentary, "Lover, Stalker, Killer"](https://www.netflix.com/title/81611991), before watching or reading this presentation.
 
 Feel free to reach-out just to connect or to ask questions.  My contact methods are found at https://forensic.coffee.
 
-THANK YOU to DEF CON, the Goons especially my excellent assigned Speaker Goon, all those who attended in-person or streamed, and all of you who might see this presentation after the con.  Please remember Cari Farver and all victims of violent crime, and let's agree to let those who harmed them be forgotten.
+THANK YOU to DEF CON, the Goons, especially my excellent assigned Speaker Goon, all those who attended in-person or streamed, and all of you who might see this presentation after the con.  Please remember Cari Farver and all victims of violent crime, and let's agree to let those who harmed them be forgotten.
 
 -- Kava 2024-08-12 21.30 UTC
 <br>
