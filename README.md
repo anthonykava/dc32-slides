@@ -3,6 +3,8 @@
 
 **TW: DISCUSSION OF VIOLENCE (no graphic images), BAD WORDS (it's DEF CON, so that's par for the course)**
 
+**DISCLAIMER:** Personal views only. Views do not represent my employer(s), or anyone else. No endorsements are intended nor should any be construed. If your presentation lasts longer than 20 minutes call a DEF CON Goon.
+
 ### [This is the deck](DC32-S533-Kava-v24-08-10-1224.pdf) that I used for the talk I gave on the Warstories Track at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-index.html) in Las Vegas.
 
 [![Slide deck GIF animation preview](preview.gif)](DC32-S533-Kava-v24-08-10-1224.pdf)
