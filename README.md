@@ -13,6 +13,8 @@
 
 <br>
 
+This investigation had a huge digital component, and I worked that side of it and did the digital forensics examinations.  This talk covered some of the specific open source tools adapted to help solve this case.
+
 On the stage, I used Eye of Gnome (eog(1)) to show slides stored as individual JPEG images copied to a tmpfs RAM disk.  The goal was speed and simplicity although it would have helped if I knew my screen wasn't mirroring for the first couple minutes! (Thankfully, a helpful hacker in the audience yelled-out, and we were able to quickly remedy it.)
 
 This PDF was made by gluing the JPEG slides together into one file. The deck is 133 slides, of which about 128 are talk content (I feel safer with powers of 2), and they were shown in 20 minutes or less for an average rate of >= 6.4 slides/min.
@@ -23,7 +25,7 @@ And this only covers like 1% of the case!
 
 For more information, the [Netflix documentary](https://www.netflix.com/title/81611991) is a great place to start, and there's a lot of detail and background in Leslie Rule's book, *[A Tangled Web: A Cyberstalker, a Deadly Obsession, and the Twisting Path to Justice](https://www.kensingtonbooks.com/9780806539997/a-tangled-web/)*.
 
-There has also been coverage on shows like [Dataline NBC](https://www.nbcnews.com/dateline/video/full-episode-scorned-1247985219637) and [ABC 20/20](https://abc.com/episode/ef002d2b-4401-4333-840a-35a1071fc4aa). There's even a [Lifetime Movie](https://www.mylifetime.com/movies/the-disappearance-of-cari-farver) dramatisation that features the very talented [Erik Athavale](https://www.imdb.com/name/nm5813845/) playing a version of me that's younger with more hair (and personality!).
+There has also been coverage on shows like [Dateline NBC](https://www.nbcnews.com/dateline/video/full-episode-scorned-1247985219637) and [ABC 20/20](https://abc.com/episode/ef002d2b-4401-4333-840a-35a1071fc4aa). There's even a [Lifetime Movie](https://www.mylifetime.com/movies/the-disappearance-of-cari-farver) dramatisation that features the very talented [Erik Athavale](https://www.imdb.com/name/nm5813845/) playing a version of me that's younger with more hair (and personality!).
 
 And, yes, there are Easter Eggs or subtle references in multiple slides.  I hope you find them.
 
