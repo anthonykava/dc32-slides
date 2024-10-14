@@ -1,11 +1,15 @@
 # DEF CON 32 Talk: Solving the "Lover, Stalker, Killer" Murder with strings, grep, and Perl
-## Given 2024-08-11 @ 1200 PDT (1900 UTC), streamed on [DCTV](https://dctv.defcon.org) via [Twitch](https://www.twitch.tv/defconorg) and [YouTube](https://www.youtube.com/user/defconconference)
+
+**DISCLAIMER:** Personal views only. Views do not represent my employer(s), or anyone else. No endorsements are intended nor should any be construed. If your presentation lasts longer than 20 minutes call a DEF CON Goon. Videos Copyright (c) 1993-2024 DEF CON Communications, Inc.
 
 **TW: DISCUSSION OF VIOLENCE (no graphic images), BAD WORDS (it's DEF CON, so that's par for the course)**
 
-**DISCLAIMER:** Personal views only. Views do not represent my employer(s), or anyone else. No endorsements are intended nor should any be construed. If your presentation lasts longer than 20 minutes call a DEF CON Goon.
+## Talk Materials
 
-### [This is the deck](DC32-S533-Kava-v24-08-10-1224.pdf) that I used for the talk I gave on the Warstories Track at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-index.html) in Las Vegas.
+* [REMIXED Video Correcting Slides Issue (RECOMMENDED)](https://karv.es/dc32remix)
+* [REMIXED Video Correcting Slides Issue + Cursing Removed](https://karv.es/dc32clean)
+* [DEF CON 32 Original Video (media.defcon.org)](https://karv.es/dc32mp4)
+* [Slide Deck](DC32-S533-Kava-v24-08-10-1224.pdf)
 
 [![Slide deck GIF animation preview](preview.gif)](DC32-S533-Kava-v24-08-10-1224.pdf)
 
@@ -14,6 +18,8 @@
 ## If you want to do something nice to honour Cari Farver's memory, please consider donating to the Cari Farver Memorial Scholarship Fund. Visit: https://farverscholarship.org
 
 <br>
+
+I gave this talk on the Warstories Track at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-index.html) in Las Vegas on 2024-08-11 at 1200 PDT (1900 UTC).  It was streamed live on [DCTV](https://dctv.defcon.org) via [Twitch](https://www.twitch.tv/defconorg) and [YouTube](https://www.youtube.com/user/defconconference).
 
 This investigation had a huge digital component, and I worked that side of it and did the digital forensics examinations.  This talk covered some of the specific open source tools adapted to help solve this case.
 
@@ -31,7 +37,7 @@ There has also been coverage on shows like [Dateline NBC](https://www.nbcnews.co
 
 And, yes, there are Easter Eggs or subtle references in multiple slides.  I hope you find them.
 
-The recorded video should eventually be posted to the [DEF CON Media Server](https://media.defcon.org) and [YouTube](https://www.youtube.com/user/defconconference). An older version of my slide deck is already on the Media Server, but the copy found here is the one that was used (and it will probably also replace the older copy on the DEF CON site sometime after people are back home from the con). For DC31 it took about two months for videos to appear.
+The recorded video was posted to the [DEF CON Media Server](https://media.defcon.org) and may make its way to [YouTube](https://www.youtube.com/user/defconconference). The remixed videos linked above show slides as I meant to show them during the first part of the talk so you see what was intended.
 
 I did a [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1bax5zv/i_am_the_nerd_from_netflixs_lover_stalker_killer/) months back that answered a lot of questions. If you haven't seen it, I highly recommend watching the wonderful [Netflix documentary, "Lover, Stalker, Killer"](https://www.netflix.com/title/81611991), before watching or reading this presentation.
 
@@ -39,7 +45,7 @@ Feel free to reach-out just to connect or to ask questions.  My contact methods 
 
 THANK YOU to DEF CON, the Goons, especially my excellent assigned Speaker Goon, all those who attended in-person or streamed, and all of you who might see this presentation after the con.  Please remember Cari Farver and all victims of violent crime, and let's agree to let those who harmed them be forgotten.
 
--- Kava 2024-08-12 21.30 UTC
+-- Kava 2024-08-12 21.30 UTC / 2024-10-14 03.03 UTC
 <br>
 <br>
   
