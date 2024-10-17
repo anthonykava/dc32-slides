@@ -9,6 +9,7 @@
 * [REMIXED Video Correcting Slides Issue (RECOMMENDED)](https://karv.es/dc32remix)
 * [REMIXED Video Correcting Slides Issue + Cursing Removed](https://karv.es/dc32clean)
 * [DEF CON 32 Original Video (media.defcon.org)](https://karv.es/dc32mp4)
+* [DEF CON 32 Original Video (YouTube)](https://youtu.be/_1GvHMlzXOY)
 * [Slide Deck](DC32-S533-Kava-v24-08-10-1224.pdf)
 
 [![Slide deck GIF animation preview](preview.gif)](DC32-S533-Kava-v24-08-10-1224.pdf)
