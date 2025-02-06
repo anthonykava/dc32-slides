@@ -1,3 +1,5 @@
+[![DEF CON](https://img.shields.io/badge/Defcon-32-blue)](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20program.pdf#page=31)
+
 # DEF CON 32 Talk: Solving the "Lover, Stalker, Killer" Murder with strings, grep, and Perl
 
 **DISCLAIMER:** Personal views only. Views do not represent my employer(s), or anyone else. No endorsements are intended nor should any be construed. If your presentation lasts longer than 20 minutes call a DEF CON Goon. Videos Copyright (c) 1993-2024 DEF CON Communications, Inc.
